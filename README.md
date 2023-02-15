@@ -1,0 +1,2 @@
+# alignak
+WpBOT
